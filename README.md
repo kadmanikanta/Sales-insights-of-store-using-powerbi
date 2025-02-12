@@ -1,4 +1,4 @@
-# Superstore Sales Forecasting and Analysis Dashboard
+# Superstore Sales Forecasting & Profitability Analysis Dashboard
 
 This project involves building an **interactive Power BI dashboard** designed to help businesses track and analyze sales, profitability, and forecast future trends. The dashboard leverages historical data to provide actionable insights and help decision-makers optimize sales strategies.
 
